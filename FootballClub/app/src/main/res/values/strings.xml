@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">FootballClub</string>
+
+    <string-array name="club_name">
+        <item>Barcelona FC</item>
+        <item>Real Madrid FC</item>
+        <item>Bayern Munchen FC</item>
+        <item>Manchester City FC</item>
+        <item>Manchester United FC</item>
+        <item>Liverpool FC</item>
+        <item>Borussia Dortmund FC</item>
+        <item>Atletico Madrid FC</item>
+        <item>Galasataray FC</item>
+
+    </string-array>
+
+    <array name="club_image">
+        <item>@drawable/fcb</item>
+        <item>@drawable/madrid</item>
+        <item>@drawable/much</item>
+        <item>@drawable/city</item>
+        <item>@drawable/mu</item>
+        <item>@drawable/liverpool</item>
+        <item>@drawable/borusia</item>
+        <item>@drawable/atletico</item>
+        <item>@drawable/galasatarai</item>
+    </array>
+
+    <array name="deskripsi">
+        <item>Fútbol Club Barcelona, juga dikenal sebagai Barcelona atau Barça, adalah klub sepak bola profesional yang berbasis di Barcelona, Catalunya, Spanyol. \n\nSumber: Wikipedia</item>
+        <item>Real Madrid Club de Fútbol, umumnya dikenal sebagai Real Madrid, adalah klub sepak bola profesional yang berbasis di Madrid, Spanyol. Didirikan pada tahun 1902 sebagai Madrid Football Club, secara tradisional mengenakan kostum kandang putih. \n\nSumber: Wikipedia</item>
+        <item>Fußball-Club Bayern München e.V., juga dikenal sebagai FC Bayern München, FC Bayern Munich, atau FC Bayern, adalah sebuah klub olahraga Jerman yang berbasis di München, Bavaria. \n\nSumber: Wikipedia</item>
+        <item>Manchester City Football Club adalah sebuah klub sepak bola profesional dari Inggris yang bermain di Liga Premier Inggris. Klub ini merupakaan klub sekota dengan Manchester United dan bermarkas di Stadion Etihad, Manchester. Pertandingan pertama dimainkan pada bulan November 1880. \n\nSumber: Wikipedia</item>
+        <item>Manchester United Football Club adalah sebuah klub sepak bola profesional Inggris yang berbasis di Old Trafford, Manchester Raya, yang bermain di Liga Inggris. \n\nSumber: Wikipedia</item>
+        <item>Liverpool Football Club adalah sebuah klub sepak bola asal Inggris yang berbasis di Kota Liverpool. Saat ini Liverpool adalah peserta Liga Utama Inggris. \n\nSumber: Wikipedia</item>
+        <item>Ballspielverein Borussia 09 e.V. Dortmund umumnya dikenal sebagai Borussia Dortmund, Dortmund, atau BVB, adalah klub sepak bola di Jerman berbasis di kota Dortmund, Nordrhein-Westfalen. Tim ini bermain di Bundesliga dan termasuk salah satu klub yang paling sukses di sejarah Sepak Bola Jerman. \n\nSumber: Wikipedia</item>
+        <item>Atlético de Madrid nama lengkap Club Atletico de Madrid, SAD, atau Atlético Madrid, atau juga disebut Atlético atau Atleti, adalah tim sepak bola Spanyol yang bermain di La Liga Santander. Bermarkas di Madrid. Tim yang berdiri tahun 1903 memiliki prestasi yang baik dipercaturan sepak bola Spanyol. \n\nSumber: Wikipedia</item>
+        <item>Galatasaray Spor Kulübü, lebih dikenal sebagai Galatasaray dan didirikan sebagai Galata-Serai Football Club oleh Ali Sami Yen pada 1905, adalah sebuah klub sepak bola profesional yang berbasis di İstanbul, Turki.y FC \n\nSumber: Wikipedia</item>
+    </array>
+
+</resources>
